@@ -1,3 +1,3 @@
 # Github_Lists
 
-This contains list of github links for several domains
+This contains github links for several domains
