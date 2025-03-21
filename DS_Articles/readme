@@ -1,1 +1,9 @@
+Essays on Data Science 
+1. https://ericmjl.github.io/essays-on-data-science/
+2. https://ericmjl.github.io/dl-workshop/index.html
 
+Articles:
+#Fine-tune Llama 2 for sentiment analysis
+https://www.kaggle.com/code/lucamassaron/fine-tune-llama-2-for-sentiment-analysis
+#Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth 
+https://huggingface.co/blog/mlabonne/sft-llama3
